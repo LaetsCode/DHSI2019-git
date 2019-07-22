@@ -1,3 +1,5 @@
+Author : Laetitia Aznar-Cormano
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LaetsCode/DHSI2019-git/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
